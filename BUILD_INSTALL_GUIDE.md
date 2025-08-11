@@ -11,6 +11,7 @@ Before building XStow, ensure you have the following dependencies installed:
 
 ```bash
 sudo apt-get update
+
 sudo apt-get install build-essential autotools-dev autoconf automake libtool
 ```
 
